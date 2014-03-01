@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b7ae2796ee5ee4cc48445d0b31c22ced
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pipe: {fileID: 400002, guid: 066e290ef1ca44ab48b0023dfd2338c9, type: 2}
+  - scored: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
